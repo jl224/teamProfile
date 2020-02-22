@@ -24,10 +24,19 @@ function main(data) {
 
 
     <title>Document</title>
+
+    <div class="jumbotron" style="background-color:navy ; color: white;">
+        <h1 class="text-center">
+            <strong>
+                <i class></i>Team Profile Generator</strong>
+        </h1>
+    </div>
 </head>
 
 <body>
-    <div class="row">
+    <div class="row", "justify-content-center">
+
+    
     `
 
 }
